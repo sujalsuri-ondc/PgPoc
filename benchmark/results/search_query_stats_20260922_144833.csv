@@ -1,0 +1,2 @@
+query_id,query_type,category_id,domain,db_ms,send_ms,total_ms,rows,send_status,error
+6f852ace-848a-4abd-93dd-e36d13a773ef,range,Body Care - Bath Salt and Additives,RET13,37.902,2.237,40.156,80,200,

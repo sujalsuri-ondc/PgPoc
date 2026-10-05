@@ -1,0 +1,2 @@
+query_id,query_type,category_id,domain,db_ms,send_ms,total_ms,rows,send_status,error
+9bc79068-a473-4ae2-9557-501ffe8ed16f,range,Shaver,RET13,60.714,1.296,62.024,55,200,
